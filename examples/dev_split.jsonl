@@ -1,0 +1,8 @@
+{"id":"s1","capability":"object","prompt":"What animal is in the image?","reference":"cat","prediction":"cat"}
+{"id":"s2","capability":"attribute","prompt":"What color is the car?","reference":"red","prediction":"dark red"}
+{"id":"s3","capability":"relation","prompt":"Where is the cup relative to the book?","reference":"on the book","prediction":"on book"}
+{"id":"s4","capability":"ocr","prompt":"Read the number on the sign.","reference":"42","prediction":"42"}
+{"id":"s5","capability":"reasoning","prompt":"Which object is heavier?","reference":"the metal box","prediction":"metal box"}
+{"id":"s6","capability":"ocr","prompt":"Read the serial text.","reference":"A9K2","prediction":"A9K"}
+{"id":"s7","capability":"attribute","prompt":"What material is the table?","reference":"wood","prediction":"plastic"}
+{"id":"s8","capability":"object","prompt":"What object is held by the person?","reference":"umbrella","prediction":"umbrella"}
