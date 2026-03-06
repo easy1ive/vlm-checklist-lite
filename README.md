@@ -6,6 +6,12 @@ A compact, capability-oriented evaluator for vision-language model outputs.
 
 Large benchmark scores often hide where a VLM fails. This project tracks performance by capabilities (object, attribute, relation, OCR, reasoning) to make model iteration more interpretable.
 
+## Industry context (2025-2026)
+
+- Model releases are faster than benchmark refresh cycles, making lightweight internal evaluation essential.
+- Capability-sliced diagnostics are increasingly used before full benchmark runs to speed up iteration.
+- Teams are moving from single scalar scores to structured error taxonomies for VLM reliability.
+
 ## Features
 
 - JSONL-based evaluation format that is easy to version with experiments.
