@@ -33,6 +33,18 @@ Each line in JSONL should contain:
 pip install -e .
 ```
 
+## Run demo
+
+```bash
+python scripts/run_demo.py --input examples/dev_split.jsonl
+```
+
+Generated artifacts:
+
+- `outputs/report.json`
+- `outputs/report.md`
+- `outputs/radar.png` (if matplotlib is available)
+
 ## Direction
 
 This repo is designed as a practical bridge between quick model iteration and more formal benchmark suites.
